@@ -1,0 +1,4 @@
+- [ ] Build DrishtiAI shell and mock clinical workspace
+- [ ] Implement screening workflow, quality gate, explainability, and referral states
+- [ ] Implement offline queue, sync simulation, records, analytics, and review queue
+- [ ] Add metadata and validate preview interactions
